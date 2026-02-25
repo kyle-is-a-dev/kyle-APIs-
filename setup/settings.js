@@ -18,5 +18,5 @@ module.exports = {
   operator: "Kyletheintrovert",
   telegram: "N/A",
   messenger: "https://m.me/j/kyletheintrovert/",
-  github: "https://github.com/kyledev"
+  github: "https://github.com/kyle-is-a-dev/kyle-APIs-/"
 };
